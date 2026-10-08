@@ -1,0 +1,9 @@
+# Analysis packages, pinned to the versions used for the verified notebook
+pandas==2.2.3
+numpy==2.3.5
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Local Jupyter interface and Python kernel
+jupyterlab>=4.2,<5
+ipykernel>=6.29,<8
